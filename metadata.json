@@ -1,0 +1,6 @@
+{
+  "name": "StudentOS - Academic & Engineering Command Center",
+  "description": "High-performance operating system and cockpit for engineering and STEM students with deterministic syllabus tracking, DSA problem ledger, AI study planner, and grade forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
